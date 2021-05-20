@@ -9,7 +9,6 @@ import io
 import html
 import time
 import matplotlib.pyplot as plt
-%matplotlib inline
 from mtcnn.mtcnn import MTCNN
 from matplotlib.patches import Rectangle
 from keras_vggface.utils import preprocess_input
